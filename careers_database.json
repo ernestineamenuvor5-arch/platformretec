@@ -1,0 +1,303 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-01-04",
+  "total_careers": 15,
+  "careers": [
+    {
+      "career_id": "civil_engineer_001",
+      "career_name": "Civil Engineer",
+      "career_cluster": "Engineering & Technology",
+      "description": "Designs and builds roads, bridges, and buildings. Oversees construction projects and ensures structural safety.",
+      "education_level": ["JHS", "SHS", "Tertiary"],
+      "key_skills": ["Mathematics", "Physics", "Technical Drawing", "Problem Solving", "Project Management", "Structural Analysis"],
+      "daily_tasks": [
+        "Calculate structural loads and material requirements",
+        "Create technical drawings and blueprints",
+        "Inspect construction sites for safety compliance",
+        "Solve engineering problems on-site",
+        "Manage project budgets and timelines",
+        "Design infrastructure systems (roads, bridges, water supply)"
+      ],
+      "tools_used": ["AutoCAD", "Calculator", "Measuring tape", "Level", "Safety equipment", "Surveying tools"],
+      "salary_range_ghana": {"min": 3000, "max": 15000, "currency": "GHS"},
+      "growth_potential": "High",
+      "related_careers": ["architect_001", "mechanical_engineer_002", "quantity_surveyor_003"]
+    },
+    {
+      "career_id": "mechanical_engineer_002",
+      "career_name": "Mechanical Engineer",
+      "career_cluster": "Engineering & Technology",
+      "description": "Works with machines and moving parts. Designs, builds, and maintains mechanical systems.",
+      "education_level": ["JHS", "SHS", "Tertiary"],
+      "key_skills": ["Mathematics", "Physics", "Mechanics", "CAD Design", "Problem Solving", "Manufacturing Knowledge"],
+      "daily_tasks": [
+        "Design mechanical systems and components",
+        "Calculate forces, torque, and mechanical advantage",
+        "Test and troubleshoot machinery",
+        "Maintain and repair mechanical equipment",
+        "Optimize system efficiency",
+        "Create technical specifications"
+      ],
+      "tools_used": ["Wrenches", "CAD software", "Testing equipment", "Calculators", "Measurement tools"],
+      "salary_range_ghana": {"min": 2800, "max": 12000, "currency": "GHS"},
+      "growth_potential": "High",
+      "related_careers": ["civil_engineer_001", "electrician_004", "robotics_engineer_005"]
+    },
+    {
+      "career_id": "quantity_surveyor_003",
+      "career_name": "Quantity Surveyor",
+      "career_cluster": "Construction & Architecture",
+      "description": "Manages construction costs and budgets. Calculates material quantities and project expenses.",
+      "education_level": ["JHS", "SHS", "Tertiary"],
+      "key_skills": ["Mathematics", "Cost Estimation", "Budget Management", "Measurement", "Negotiation"],
+      "daily_tasks": [
+        "Calculate quantities of materials needed",
+        "Prepare cost estimates for projects",
+        "Monitor project budgets",
+        "Process payments to contractors",
+        "Advise on cost-saving measures"
+      ],
+      "tools_used": ["Calculator", "Measurement tools", "Excel", "Estimating software"],
+      "salary_range_ghana": {"min": 2500, "max": 10000, "currency": "GHS"},
+      "growth_potential": "Medium",
+      "related_careers": ["civil_engineer_001", "architect_001", "project_manager_006"]
+    },
+    {
+      "career_id": "electrician_004",
+      "career_name": "Electrician",
+      "career_cluster": "Engineering & Technology",
+      "description": "Designs power systems and wiring. Installs and maintains electrical systems in buildings and infrastructure.",
+      "education_level": ["JHS", "SHS", "Technical"],
+      "key_skills": ["Electrical Theory", "Mathematics", "Safety Protocols", "Problem Solving", "Circuit Design"],
+      "daily_tasks": [
+        "Install electrical wiring and systems",
+        "Calculate electrical loads and circuit requirements",
+        "Troubleshoot electrical problems",
+        "Read and interpret electrical diagrams",
+        "Ensure electrical safety compliance"
+      ],
+      "tools_used": ["Multimeter", "Wire strippers", "Screwdrivers", "Safety gear", "Circuit testers"],
+      "salary_range_ghana": {"min": 1500, "max": 8000, "currency": "GHS"},
+      "growth_potential": "Medium",
+      "related_careers": ["mechanical_engineer_002", "solar_technician_007"]
+    },
+    {
+      "career_id": "robotics_engineer_005",
+      "career_name": "Robotics Engineer",
+      "career_cluster": "Engineering & Technology",
+      "description": "Builds software, hardware, and robots. Designs automated systems and intelligent machines.",
+      "education_level": ["SHS", "Tertiary"],
+      "key_skills": ["Programming", "Mathematics", "Physics", "Electronics", "Problem Solving", "System Design"],
+      "daily_tasks": [
+        "Program robot control systems",
+        "Design mechanical and electronic components",
+        "Test and debug robotic systems",
+        "Integrate sensors and actuators",
+        "Optimize robot performance"
+      ],
+      "tools_used": ["Programming languages", "CAD software", "Electronics tools", "Testing equipment"],
+      "salary_range_ghana": {"min": 4000, "max": 20000, "currency": "GHS"},
+      "growth_potential": "Very High",
+      "related_careers": ["mechanical_engineer_002", "software_engineer_008", "electrician_004"]
+    },
+    {
+      "career_id": "architect_001",
+      "career_name": "Architect",
+      "career_cluster": "Construction & Architecture",
+      "description": "Designs buildings and structures. Creates functional and aesthetic spaces while ensuring safety and regulations.",
+      "education_level": ["JHS", "SHS", "Tertiary"],
+      "key_skills": ["Technical Drawing", "Mathematics", "Creativity", "Spatial Reasoning", "Building Codes"],
+      "daily_tasks": [
+        "Create architectural drawings and plans",
+        "Calculate space requirements and dimensions",
+        "Select appropriate building materials",
+        "Coordinate with engineers and contractors",
+        "Ensure designs meet regulations"
+      ],
+      "tools_used": ["CAD software", "Drawing tools", "Scale rulers", "3D modeling software"],
+      "salary_range_ghana": {"min": 3500, "max": 18000, "currency": "GHS"},
+      "growth_potential": "High",
+      "related_careers": ["civil_engineer_001", "interior_designer_009"]
+    },
+    {
+      "career_id": "entrepreneur_010",
+      "career_name": "Entrepreneur / Business Owner",
+      "career_cluster": "Business & Marketing",
+      "description": "Starts and runs their own business. Identifies opportunities, manages resources, and creates value.",
+      "education_level": ["JHS", "SHS", "Tertiary", "Self-taught"],
+      "key_skills": ["Business Planning", "Financial Management", "Marketing", "Problem Solving", "Leadership", "Risk Management"],
+      "daily_tasks": [
+        "Calculate costs, prices, and profits",
+        "Manage business finances and budgets",
+        "Market products or services",
+        "Serve and retain customers",
+        "Make strategic business decisions",
+        "Keep business records"
+      ],
+      "tools_used": ["Calculator", "Accounting software", "Mobile money", "Social media", "Point of sale systems"],
+      "salary_range_ghana": {"min": 1000, "max": 50000, "currency": "GHS"},
+      "growth_potential": "Very High",
+      "related_careers": ["marketer_011", "accountant_012", "sales_rep_013"]
+    },
+    {
+      "career_id": "marketer_011",
+      "career_name": "Marketing Professional",
+      "career_cluster": "Business & Marketing",
+      "description": "Promotes products and services. Creates advertising campaigns and builds brand awareness.",
+      "education_level": ["JHS", "SHS", "Tertiary"],
+      "key_skills": ["Communication", "Creativity", "Market Research", "Digital Marketing", "Data Analysis", "Persuasion"],
+      "daily_tasks": [
+        "Create marketing campaigns and advertisements",
+        "Analyze customer data and market trends",
+        "Manage social media and online presence",
+        "Design promotional materials",
+        "Measure campaign effectiveness",
+        "Build relationships with customers"
+      ],
+      "tools_used": ["Social media platforms", "Design software", "Analytics tools", "Email marketing software"],
+      "salary_range_ghana": {"min": 2000, "max": 12000, "currency": "GHS"},
+      "growth_potential": "High",
+      "related_careers": ["entrepreneur_010", "sales_rep_013", "graphic_designer_014"]
+    },
+    {
+      "career_id": "accountant_012",
+      "career_name": "Accountant / Finance Professional",
+      "career_cluster": "Finance & Banking",
+      "description": "Manages financial records and reports. Tracks income, expenses, and ensures financial compliance.",
+      "education_level": ["JHS", "SHS", "Tertiary"],
+      "key_skills": ["Mathematics", "Attention to Detail", "Financial Analysis", "Record Keeping", "Tax Knowledge"],
+      "daily_tasks": [
+        "Record financial transactions",
+        "Prepare financial statements and reports",
+        "Calculate taxes and ensure compliance",
+        "Analyze financial data for decision-making",
+        "Manage budgets and forecasts",
+        "Audit financial records"
+      ],
+      "tools_used": ["Accounting software", "Excel", "Calculator", "Financial reporting tools"],
+      "salary_range_ghana": {"min": 2500, "max": 15000, "currency": "GHS"},
+      "growth_potential": "High",
+      "related_careers": ["entrepreneur_010", "banker_015", "auditor_016"]
+    },
+    {
+      "career_id": "sales_rep_013",
+      "career_name": "Sales Representative",
+      "career_cluster": "Business & Marketing",
+      "description": "Sells products or services directly to customers. Builds relationships and closes deals.",
+      "education_level": ["JHS", "SHS", "Tertiary", "On-the-job training"],
+      "key_skills": ["Communication", "Persuasion", "Customer Service", "Negotiation", "Product Knowledge", "Mathematics"],
+      "daily_tasks": [
+        "Present products to potential customers",
+        "Calculate prices, discounts, and commissions",
+        "Handle customer objections and questions",
+        "Close sales and process transactions",
+        "Follow up with customers",
+        "Meet sales targets and quotas"
+      ],
+      "tools_used": ["Mobile phone", "Product catalog", "Calculator", "CRM software", "Payment systems"],
+      "salary_range_ghana": {"min": 1200, "max": 10000, "currency": "GHS"},
+      "growth_potential": "Medium",
+      "related_careers": ["marketer_011", "entrepreneur_010", "retail_manager_017"]
+    },
+    {
+      "career_id": "graphic_designer_014",
+      "career_name": "Graphic Designer",
+      "career_cluster": "Arts, Culture & Entertainment",
+      "description": "Creates visual content for brands and businesses. Designs logos, packaging, advertisements, and digital content.",
+      "education_level": ["JHS", "SHS", "Tertiary", "Self-taught"],
+      "key_skills": ["Creativity", "Design Software", "Color Theory", "Typography", "Visual Communication", "Client Management"],
+      "daily_tasks": [
+        "Design logos, posters, and marketing materials",
+        "Create product packaging and labels",
+        "Edit and manipulate images",
+        "Meet with clients to understand their needs",
+        "Prepare files for printing or digital use",
+        "Stay updated on design trends"
+      ],
+      "tools_used": ["Photoshop", "Illustrator", "Canva", "CorelDRAW", "Computer/tablet"],
+      "salary_range_ghana": {"min": 1500, "max": 8000, "currency": "GHS"},
+      "growth_potential": "Medium",
+      "related_careers": ["marketer_011", "web_designer_018", "photographer_019"]
+    },
+    {
+      "career_id": "banker_015",
+      "career_name": "Banker / Banking Officer",
+      "career_cluster": "Finance & Banking",
+      "description": "Provides financial services to customers. Manages accounts, processes transactions, and offers financial advice.",
+      "education_level": ["SHS", "Tertiary"],
+      "key_skills": ["Mathematics", "Customer Service", "Financial Knowledge", "Attention to Detail", "Communication"],
+      "daily_tasks": [
+        "Open and manage customer accounts",
+        "Process deposits, withdrawals, and transfers",
+        "Calculate interest and loan payments",
+        "Advise customers on financial products",
+        "Ensure compliance with banking regulations",
+        "Handle customer inquiries and complaints"
+      ],
+      "tools_used": ["Banking software", "Calculator", "Computer systems", "Mobile banking apps"],
+      "salary_range_ghana": {"min": 2000, "max": 12000, "currency": "GHS"},
+      "growth_potential": "High",
+      "related_careers": ["accountant_012", "financial_analyst_020", "mobile_money_agent_021"]
+    },
+    {
+      "career_id": "retail_manager_017",
+      "career_name": "Retail Manager / Shop Manager",
+      "career_cluster": "Business & Marketing",
+      "description": "Oversees retail store operations. Manages staff, inventory, sales, and customer service.",
+      "education_level": ["JHS", "SHS", "Tertiary"],
+      "key_skills": ["Leadership", "Mathematics", "Inventory Management", "Customer Service", "Business Planning"],
+      "daily_tasks": [
+        "Manage daily store operations",
+        "Calculate sales, profits, and inventory levels",
+        "Train and supervise staff",
+        "Handle customer complaints and issues",
+        "Order stock and manage suppliers",
+        "Analyze sales data and make business decisions"
+      ],
+      "tools_used": ["Point of sale system", "Inventory software", "Calculator", "Mobile money"],
+      "salary_range_ghana": {"min": 1800, "max": 9000, "currency": "GHS"},
+      "growth_potential": "Medium",
+      "related_careers": ["entrepreneur_010", "sales_rep_013", "supply_chain_manager_022"]
+    },
+    {
+      "career_id": "mobile_money_agent_021",
+      "career_name": "Mobile Money Agent",
+      "career_cluster": "Finance & Banking",
+      "description": "Provides mobile money services to the community. Processes cash-in, cash-out, and transfer transactions.",
+      "education_level": ["JHS", "SHS", "On-the-job training"],
+      "key_skills": ["Mathematics", "Customer Service", "Attention to Detail", "Technology Skills", "Record Keeping"],
+      "daily_tasks": [
+        "Process mobile money transactions",
+        "Calculate transaction fees and commissions",
+        "Maintain accurate transaction records",
+        "Manage cash float and balances",
+        "Serve customers professionally",
+        "Ensure transaction security"
+      ],
+      "tools_used": ["Mobile phone", "Calculator", "Transaction log", "Cash box"],
+      "salary_range_ghana": {"min": 800, "max": 5000, "currency": "GHS"},
+      "growth_potential": "Medium",
+      "related_careers": ["banker_015", "entrepreneur_010", "retail_manager_017"]
+    },
+    {
+      "career_id": "teacher_023",
+      "career_name": "Teacher / Educator",
+      "career_cluster": "Education & Training",
+      "description": "Educates and trains students. Develops lesson plans, delivers instruction, and assesses learning.",
+      "education_level": ["SHS", "Tertiary"],
+      "key_skills": ["Subject Knowledge", "Communication", "Patience", "Creativity", "Assessment", "Classroom Management"],
+      "daily_tasks": [
+        "Prepare and deliver lessons",
+        "Assess student understanding and progress",
+        "Create learning materials and activities",
+        "Manage classroom behavior",
+        "Grade assignments and provide feedback",
+        "Communicate with parents about student progress"
+      ],
+      "tools_used": ["Textbooks", "Teaching aids", "Whiteboard", "Computer", "Assessment tools"],
+      "salary_range_ghana": {"min": 1500, "max": 7000, "currency": "GHS"},
+      "growth_potential": "Medium",
+      "related_careers": ["curriculum_developer_024", "education_consultant_025"]
+    }
+  ]
+}
